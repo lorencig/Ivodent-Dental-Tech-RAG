@@ -10,3 +10,5 @@
 * [PROTEZA PARCIALE](proteza-parciale.md)
 * [Teknika e urave dhe kurorave I (Morfologji)](teknika-e-urave-dhe-kurorave-i-morfologji.md)
 * [TEORIA E PROTEZAVE I](teoria-e-protezave-i.md)
+* [Hohmann & Hielscher Proteza Totale, kap 1-4](hohmann-and-hielscher-proteza-totale-kap-1-4.md)
+* [Pyetje përgjigje Kapitulli 8](pyetje-pergjigje-kapitulli-8.md)
