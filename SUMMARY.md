@@ -11,4 +11,4 @@
 * [Teknika e urave dhe kurorave I (Morfologji)](teknika-e-urave-dhe-kurorave-i-morfologji.md)
 * [TEORIA E PROTEZAVE I](teoria-e-protezave-i.md)
 * [Hohmann & Hielscher Proteza Totale, kap 1-4](hohmann-and-hielscher-proteza-totale-kap-1-4.md)
-* [Page 1](page-1.md)
+* [Pyetje Përgjigje Kap 8](pyetje-pergjigje-kap-8.md)
