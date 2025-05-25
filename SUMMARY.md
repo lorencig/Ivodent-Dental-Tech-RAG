@@ -12,3 +12,4 @@
 * [TEORIA E PROTEZAVE I](teoria-e-protezave-i.md)
 * [Hohmann & Hielscher Proteza Totale, kap 1-4](hohmann-and-hielscher-proteza-totale-kap-1-4.md)
 * [Pyetje Përgjigje Kap 8](pyetje-pergjigje-kap-8.md)
+* [Hohmann & Hielscher](hohmann-and-hielscher.md)
