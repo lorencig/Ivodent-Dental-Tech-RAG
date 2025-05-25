@@ -1,9 +1,9 @@
 # Hohmann & Hielscher
 
-```markdown
-# Paraprotetika
+```
+ Paraprotetika
 
-# Çrregullime Funksionale Pas Humbjes së Dhëmbëve
+ Çrregullime Funksionale Pas Humbjes së Dhëmbëve
 
 Sistemi përtypës është një njësi e përbërë nga pjesë indore të orientuara funksionalisht dhe funksionon siç duhet vetëm nëse të gjitha pjesë të sistemit janë të pranishme dhe funksionojnë pa probleme. Nëse funksionimi normal i sistemit përtypës nuk ekziston më, qoftë për shkak të humbjes, ose sepse sëmundja ka ndryshuar një pjesë të sistemit, kjo quhet çrregullim funksional, mosfunksionim ose disfunksion. Në lidhje me pozicionin dhe madhësinë e një hapësire pa dhëmbë midis dhëmbëve ose një harku dentar të shkurtuar, mund të verehen ndryshime në shprehjen e fytyrës dhe artikulimin, si dhe efektet në funksionin përtypës, muskujt përtypës dhe nyjet temporomandibulare (TMJ). Mbi të gjitha, ka një efekt negativ në denticionin e mbetur.
 
@@ -43,7 +43,7 @@ Në fytyrën e një pacienti të moshuar pa dhëmbë, rrudhat ekstreme rreth goj
 
 Ndryshimet në sistemin përtypës dhe në fytyrë janë më të dukshme në edentulizmin e plotë: Kreshtat alveolare dhe indet kockore për lidhjet e muskujve resorbohen, mandibula lëviz më afër maksillës, mbështetja e buzëve humbet, e kuqja e buzëve zhduket dhe fytyra duket më e plakur.
 
-# Çrregullime Funksionale dhe Ngarkesa Mbi Dhëmbët e Mbetur
+ Çrregullime Funksionale dhe Ngarkesa Mbi Dhëmbët e Mbetur
 
 Për shembull, nëse kemi një ngarkesë normale dhe një periodont rezistent, një dhëmb mund të kompensojë humbjen e disa molareve. Megjithatë, në shumicën e rasteve, simptomat e përshkruara ndodhin brenda pak vitesh dhe çojnë shpejt në humbjen e të gjithë dhëmbëve nëse nuk ndërhyhet nga trajtimi protetik.
 
@@ -71,7 +71,7 @@ Nëse ngarkesa e dhëmbëve të mbetur është më e madhe se zakonisht për shk
 
 Në një denticion plotësisht dentar, devijimi i dhëmbëve kompensohet nga mbështetja sagitale nga kontaktet aproksimale, ndërlidhja e indeve, ndërlidhja e dyfishtë me antagonistët dhe refleksi neuromuskular. Në një denticion pjesërisht pa dhëmbë, mbështetja sagitale, ndërlidhja e indeve dhe kontaktet antagoniste humbasin kryesisht; vetëm refleksi mbetet. Megjithatë, harku funksionon vetëm kur ka mbingarkesë dhe jo me ngarkesa të vazhdueshme nën pragun. Kjo mund të shkaktojë dhe shpjegojë kërkesat specifike për protezat.
 
-# Funksioni i Protetikës Dentare
+ Funksioni i Protetikës Dentare
 
 Termi protetikë i referohet të gjitha pajisjeve mekanike që shërbejnë si një zëvendësim funksional ose kozmetik për indin anatomik të humbur. Prandaj, çdo zëvendësim dhëmbi, qoftë një kurorë apo një protezë e pjesshme, është një protezim. Termi protezë e pjesshme është në fakt një tautologji sepse çdo protezë është në thelb një zëvendësim i pjesshëm. Grupimi i mëposhtëm i zëvendësimeve të dhëmbëve është i dobishëm në dallimin e llojeve të ndryshme të protezave, dhe emrat e tyre theksojnë tiparet e projektimit të zëvendësimeve specifike:
 
@@ -101,7 +101,7 @@ Funksionet e trajtimit protetik mund të ndahen në katër fusha funksionale pë
 
 Parimet e projektimit dhe kriteret e testimit funksional mund të nxirren nga ky përshkrim i përgjithshëm i funksioneve. Përshkrimet e protezave specifike në seksionet vijuese jo vetëm që shpjegojnë masat konstruktive, por mbulojnë edhe referencat funksionale të zëvendësimit të dhëmbit. Gabimet e mundshme që mund të rezultojnë shqyrtohen në detaje.
 
-# Trajtim Restaurues
+ Trajtim Restaurues
 
 Trajtimi restaurues i referohet një restaurimit të një dhëmbi të vetëm, në të cilin substanca e fortë dentare e sëmurë zëvendësohet me material të përputhshëm me indet. Trajtimi restaurues bëhet i domosdoshëm për defektet dentare që vijnë nga krisja e dhëmbëve gjatë traumave, lezioneve të kariesit ose abrazionit.
 
@@ -139,7 +139,7 @@ Muret e kavitetit bukal dhe lingual për një restaurim me amalgam përgatiten p
 
 Muret e kavitetit aproksimal për një restaurim me amalgam përgatiten paksa divergjente, në një drejtim okluzal, në mënyrë që zonat marginale të kreshtës të mos thyhen. Muret bukale dhe linguale janë pak të nënprera për t'i dhënë materialit të restaurimit retension të mjaftueshëm.
 
-# Materiale Restauruese
+ Materiale Restauruese
 
 Restaurimet e bëra nga materiali rezinë restaurues prodhohen nga dentisti në gojën e pacientit duke përdorur metodën direkte. Bëhet një dallim midis një restaurimi të përkohshëm si një mbyllje e përkohshme dhe restaurimit përfundimtar për restaurimin afatgjatë. Substancat ngurtësuese në formën e përzierjeve të gatshme me përdorim të zinkut dhe sulfatit të kalciumit në tubeta, oksid zinku-vaj karafil me shtesa dhe gutaperka e deformueshme nga nxehtësia përdoren si materiale restauruese të përkohshme.
 
@@ -165,7 +165,7 @@ Materiali restaurues përbëhet nga një fletë ari speciale (fletë ari) ose ar
 
 Ari presohet në pjesë në kavitet dhe shtypet në të ftohtë me goditje çekici në mënyrë që të futet në kavitet me një vulë të ngushtë marginale. Përpunimi është i lodhshëm dhe i kushtueshëm, por prodhon restaurime inlay afatgjata dhe me dimensione të qëndrueshme, të cilat janë të përshtatshme kur një pacient është alergjik ndaj materialeve të tjera restauruese dhe përbërësve të tyre.
 
-# Restaurime me Inlay
+ Restaurime me Inlay
 
 Restaurimet inlay të bëra nga metali, qeramika ose kompoziti mund të përdoren për të restauruar kavitetet okluzale, aproksimale ose aproksimale-incizale të shkaktuara nga defekte kariesi, fraktura ose dëmtime të tjera pasi të jenë përgatitur. Restaurimet inlay janë të indikuara vetëm për pacientët që kanë higjienë të mirë orale, ndjeshmëri minimale ndaj kariesit dhe gjendje të shëndetshme periodontale. Restaurimet inlay mund të vendosen në disa sipërfaqe dhe mund të mbahen nga shpatulla dhe kunja. Ato ndryshojnë në varësi të sasisë së strukturës së dhëmbit që duhet zëvendësuar. Termi restaurime inlay përfshin inlay, onlay, overlay dhe kurora të pjesshme onlay.
 
@@ -207,7 +207,7 @@ Në rastin e inlay-ve të elektroformuara, qeramika me ngjyrën e dhëmbit piket
 
 Muret e kavitetit aproksimal për një restaurim prej metali ose kompoziti duhet të jenë pak të prera në një kënd 45 gradë; zgavra e saj është e rrumbullakosur.
 
-# Inlays Okluzale
+ Inlays Okluzale
 
 Për inlay-t okluzale, gjerësia e kavitetit është gjysma e distancës interkuspidale në mënyrë që të ruhet stabiliteti i substancës dentare dhe të lihen kontakte okluzale në indin natyral të dhëmbëve.
 
@@ -217,7 +217,7 @@ Kaviteti për një inlay metalik me një sipërfaqe të vetme ka një thellësi 
 
 Splintet inlay i referohen restaurimeve të derdhura që bashkohen me kallaj; ato përdoren për të fiksuar dhëmbët e lëvizshëm me dhëmbët ngjitur dhe t'i stabilizojnë ata. Inlay mund të përdoren për të ankoruar protezat e pjesshme, por ato ofrojnë më pak retension në dhëmbët mbështetës sesa përdorimi i kurorave.
 
-# Onlay dhe Overlays
+ Onlay dhe Overlays
 
 Onlay ose overlay përgatiten kur indi i fortë dentar dobësohet nga lezione të mëdha kariesi dhe korrigjimet okluzale janë gjithashtu të nevojshme. Për një onlay, përgatitja përfshin sipërfaqen okluzale, duke përfshirë majat e kuspideve, dhe zakonisht shtrihet në të dy sipërfaqet aproksimale. Përgatitja e overlei përfshin kuspidet mbajtëse dhe përfundon në një preparim shpatull me pjerrësi. Kufiri i preparimit shkon në nivel me lartësinë e konturit dhe shtrihet në të dy sipërfaqet aproksimale. Ekziston një kryqëzim i lëmuar midis overlei dhe kurorave të pjesshme.
 
@@ -227,7 +227,7 @@ Mbulesa zëvendëson sipërfaqen okluzale dhe mbulon plotësisht kuspidet që mb
 
 Ndërtimi i bërthamës i bërë nga materiale restauruese rezinoze (cement glas-ionomer ose kompozit) është i domosdoshëm për dhëmbët e dëmtuar rëndë përpara se të fillojë përgatitja e onlay-t ose overlay-t. Të gjithë kufijtë restaurues duhet të shtrihen brenda substancës së fortë të dhëmbit të shëndetshëm dhe jo në materialin e ndërtimit. Ndërtime të tilla të bërthamës fiksohen me kunja parapulpale në formën e vidave të kanalit të rrënjës, përveç nëse prodhohet një vidë dhe shtift i derdhur.
 
-# Fasetat
+ Fasetat
 
 Fasetat, të njohura edhe si laminate ose veshje, prodhohen kur duhet të shmanget përgatitja e plotë e kurorave dentare, me qëllim ruajtjen e indeve të bollshme natyrale dentare, si dhe estetikes.
 
@@ -245,7 +245,7 @@ Teknika e gërryerjes me acid përdoret për të përgatitur sipërfaqen e zmalt
 
 Prandaj, kufijtë e kavitetit për restaurimet me inlay të cementuara me ngjitje duhet të shtrihen brenda zonës së zmaltit të acidifikueshëm.
 
-# Ndryshimet anatomike pas humbjes së të gjithë dhëmbëve
+ Ndryshimet anatomike pas humbjes së të gjithë dhëmbëve
 
 Denticioni normal përshkruhet si okluzioni funksional mbi bazën e të cilit format e dhëmbëve, pozicionet e tyre, pjerrësitë e tyre dhe format e nofullave janë rezultat i funksioneve të veçanta që duhet të përmbushin. Me kalimin e moshës aftësia për rigjenerim qelizor bie, konsumimi fiziologjik kompensohet më pak si dhe ndodh degjenerimi fiziologjik i indeve për shkak të moshës. Kjo përfshin humbjen e vazhdueshme të dhëmbëve me kalimin e moshës e cila ndodh më shpejt në maksilë sesa në mandibul. Kaninët për shkak të periodontit të tyre të madh janë të fundit që humbin veçanërisht në mandibul.
 
@@ -281,7 +281,7 @@ Ndërsa procesi alveolar i maksilës tkurret në drejtim të inklinimit, kreshta
 
 Për të arritur një qëndrueshmëri më të mirë të protezës reduktohet dimensioni vertikal i okluzionit. Si rezultat edhe lartësia e trupit të protezës reduktohet duke bërë që mandibula të afrohet me maksilën. Si pasojë vija e mesit e pjesës së përparme të kreshtës alveolare do të zhvendoset përpara.
 
-# Format e tkurrjes së procesit alveolar
+ Format e tkurrjes së procesit alveolar
 
 Ndryshimet anatomike në gojë lidhen kryesisht me tkurrjen e proceseve alveolare të maksillës dhe mandibulës. Pas humbjes së dhëmbëve, rrënjët lënë zgavra (alveola) në të cilat formohet kockë sekondare. Në maksilë, lamelat kockore vestibulare të procesit alveolar janë më të holla, ndërsa pjesët palatinale janë relativisht kompakte. Në mandibul, muret e holla të kockës ndodhen në pjesën linguale, ndërsa muret më kompakte ndodhen në pjesën vestibulare. Lamelat e holla të kockës tkurren më shumë sesa ato kompakte. Si rezultat, kreshta alveolare duket sikur tkurret drejt qiellzës në maksilë dhe drejt faqes në mandibul (në drejtimin e pjerrësisë së tyre).
 
@@ -309,7 +309,7 @@ Kreshta alveolare në mandibulën edentuloze formon zonën fibroze e cila mbaron
 
 Mukoza e palëvizshme e kreshtës fibroze kufizohet nga ana vestibulare nga mukoza e forniksit vestibular dhe lingualisht nga dyshemeja e lëvizshme e gojës.
 
-# Marrja e masës në rastin e nofullave pa dhëmbë
+ Marrja e masës në rastin e nofullave pa dhëmbë
 
 Marrja e masave e nofullave pa dhëmbë është detyrë e klinicistit. Qëllimi është të regjistrohet në mënyrë preçize fusha protetike si dhe të regjistrohet zona e kalimit nga mukoza fikse në mukozën e lëvizshme në veçanti.
 
@@ -339,7 +339,7 @@ Modeli master i krijuar nga masa funksionale pasqyron kufirin në përmasat real
 
 Forniksi vestibular, dyshemeja e gojës dhe zona e vibrimit duhet të duken qartë në model dhe nuk duhet të dëmtohen. Mbi këto modele do të përgatiten shabllonat të cilat shërbejnë për të përcaktuar okluzionin.
 
-# Përcaktimi i Okluzionit
+ Përcaktimi i Okluzionit
 
 Përcaktimi i okluzionit ka për qëllim të regjistrojë pozicionin e nofullave me njëra-tjetrën dhe me artikulacionin temporomandibular. Qëllimi është të rikthehet okluzioni qendror i mëparshëm ose okluzioni habitual, ku kondilet qëndrojnë pa presion dhe pa tension thellë në fosat mandibulare. Në një sistem mastikator pa dhëmbë, ekuivalenti i okluzionit qendror të mëparshëm do të duhet të përcaktohet në raportet vertikale dhe horizontale.
 
@@ -367,7 +367,7 @@ Pas përcaktimit të okluzionit, klinicisti bën shënimet e mëposhtme për të
 *   **Vijat kanine** ose vijat e këndit të gojës shërbejnë për përcaktimin e gjerësisë së dhëmbëve. Merren duke ndjekur vijën e flegrës së hundës te cilindrat kafshues ose duke shënuar pozicionin e këndit të gojës.
 *   **Vija e buzës së poshtme** merret me gojën të relaksuar dhe të hapur. Kjo vijë mund të tregojë trajektoren e skajeve incizale të dhëmbëve maksilarë.
 
-# Pozicionimi i dhëmbëve në protezat totale të lëvizshme
+ Pozicionimi i dhëmbëve në protezat totale të lëvizshme
 
 Një numër udhëzuesish dhe matjesh orientuese janë të disponueshme për të rikrijuar pozicionet e dhëmbëve, të cilat teknikët dentarë duhet t’i njohin dhe t’i përdorin. Modelet përshkruese të harqeve dentare në një denticion normal janë udhëzues përgjithësisht të vlefshëm për pozicionin e dhëmbëve. Ato ofrojnë drejtim për rindërtimin e pjerrësive të akseve dhe formave të harqeve dentare. Format e harqeve dentare janë parabolike në mandibul dhe eliptike në maksilë. Okluzioni ndjek rregullin e antagonistit, ku një mbivendosje horizontale krijohet nga mbivendosja horizontale dhe vertikale e dhëmbëve të përparmë, të cilët formojnë harkun dentar vertikal të përparmë. Për formësimin e harkut dentar të mandibulës mund të përdoren rrethi i Bonwil-it, tangentja e Bonwill-it dhe linjat e Pound-it. Harku maksilar tregon tangentën e premolarëve.
 
@@ -389,7 +389,7 @@ Për vendosjen me kalotë, dhëmbët e pasmë mandibularë vendosen me majat e k
 
 Sistemet e aksesorëve ndihmës janë të disponueshme me kalota që tregojnë kurba të ndryshme, të cilat përfaqësojnë pjerrësi të ndryshme të rrugëve kondilare. Gjithashtu përdoren dhe sete të përshtatura të dhëmbëve të pasmë, ku pjerrësitë e sipërfaqeve të kuspideve i korrespondojnë vlerave të ndryshme të artikulacionit.
 
-# Qëndrueshmëria e Protezës Totale
+ Qëndrueshmëria e Protezës Totale
 
 Protezë totale qëndron mbi nofull pa ankorim mekanik, prandaj mund të zhvendoset gjatë funksionimit. Qëndrueshmëria e saj përfshin ndërtimin në mënyrë që të qëndrojë mbi kreshtën alveolare gjatë përtypjes dhe të folurit.
 
@@ -434,7 +434,7 @@ Fenomeni Christensen ndodh kur dy shabllonet janë përgatitur paralel me planin
 
 Në praktikë, dhëmbët e përparmë të majtë maksilarë, përtej premolarëve të dytë, lëvizen poshtë dhe në të djathtë dhe kthehen. Dhëmbët e përparmë të djathtë maksilarë vendosen në mënyrë të ngjashme poshtë dhe në të majtë dhe kthehen. Dhëmbët e pasmë shkëmbehen në mënyrë të kryqëzuar.
 
-# Pozicionimi i dhëmbëve përkundrejt planit okluzal
+ Pozicionimi i dhëmbëve përkundrejt planit okluzal
 
 Pozicioni i dhëmbëve në raport me planin e okluzionit ndikon gjithashtu në qëndrueshmërinë e protezës totale dhe kjo mund të shpjegohet me fenomenin e Christensen-it dhe lëvizjen anësore të Bennett-it.
 
@@ -468,7 +468,7 @@ Rritja kurbaturës së kurbave kompensuese në planin sagital në mënyrë që k
 
 Në përmbledhje mund të nxirren përfundimet e mëposhtme në lidhje me qëndrueshmërinë e protezave totale: Dhëmbët artificialë duhet të vendosen mbi qendrën e kreshtës alveolare. Dhëmbët e pasmë mandibularë mund të vendosen pak më brenda mesit të kreshtës. Dhëmbët e përparmë maksilarë duhet të pozicionohen në pozicionin e dhëmbëve natyralë (pra përpara kreshtës alveolare), për arsye estetike dhe për të ndihmuar të folurit. Për të siguruar qëndrueshmërinë e protezës dhëmbët e pasmë duhet të vendosen brenda kurbave kompensuese sagitale dhe transversale. Trupi i protezës duhet të mbahet sa më i sheshtë të jetë e mundur. Dhëmbët artificialë duhet të kenë një formë të qëndrueshme për të shmangur transferimin e forcave të dëmshme horizontale në protezë.
 
-# Dhëmbët artificialë për protezat totale
+ Dhëmbët artificialë për protezat totale
 
 Dhëmbët artificialë modernë janë të përshtatur me saktësi me ato natyralë në aspektin e formës dhe ngjyrës. Kjo pasqyron faktin se dhëmbi natyral përfaqëson formën funksionale optimale, me të cilën funksionet e sistemit mastikator mund të kryhen në mënyrën më të mirë. Këto forma dhëmbësh, të riprodhuara sipas modelit natyral, janë të qëndrueshme dhe më të besueshme funksionalisht. Për zonën e përparme, ofrohet një gamë e gjerë e formave të ndryshme të dhëmbëve, duke mundësuar restaurimin individual të çdo rasti të mundshëm.
 
@@ -488,7 +488,7 @@ Variacione nga forma natyrale e dhëmbëve mund të gjenden në gamën e dhëmb�
 
 Dhëmbi i Hiltebrandt-it është modifikimi më i suksesshëm i formës natyrale të dhëmbit, i cili është zhvilluar më tej në forma të tjera, si dhëmbët Condyloform të zhvilluar nga Gerber. Në këto dhëmbë kontaktet okluzale pikësore të dhëmbëve natyralë janë thjeshtuar në një kontakt të sheshtë havan-shtypës, ku sipërfaqet e kontaktit zhvendosen lingualisht dhe kontaktet vestibulare janë dizenjuar thjesht si kontakte mbështetëse dhe balancuese për të pozicionuar çdo dhëmb të pasmë individual në mënyrë që të jetë i qëndrueshëm. Nuk kërkohet kontakt balancues në anën e kundërt.
 
-# Pozicionimi i dhëmbëve dhe fonetika
+ Pozicionimi i dhëmbëve dhe fonetika
 
 Tingujt bilabialë (B dhe P) do të deformohen nëse pozicioni i buzës ndryshon nga vendosja jokorrrekte e dhëmbëve. Nëse dhëmbët anterior vendosen shumë lingualisht, buzët do të futen brenda dhe bashkëtingëlloret do të formohen dobët.
 
@@ -516,7 +516,7 @@ Tingujt postpalatalë, si J, K dhe G, lindin kur gjuha mbështetet mbi dhëmbët
 
 Tingulli "ck" formohet kur gjuha prek palatumin. Nëse harku dentar është shumë i ngushtë ky tingull nuk do të formohet.
 
-# Analiza e modelit të nofullave edentuloze
+ Analiza e modelit të nofullave edentuloze
 
 Pikat referuese të analizës së modelit duhet të jenë të pranishme në çdo hark dentar, duhet gjithmonë të lokalizohen në të njëjtin vënd pavarësisht atrofizimit të nofullave dhe duhet të jenë të dukshme qartë në raport me pozicionim e dhëmbëve. Figura tregon pikat fikse të analizës së modelit.
 
@@ -524,7 +524,7 @@ Në harqet dentare mund të shënohen pika dhe vija për të lejuar përcaktimin
 
 Analizat statike kanë treguar marrëdhënien midis këtyre pikave dhe pozicionit normal të dhëmbëve. Bazuar në këto vija dhe pika fikse mund të rikthehet pozicioni origjinal i dhëmbëve. Rreshtimi në proteza totale mund të lehtësohet me ndihmën e veçorive topografike të denticionit normal. Në këtë kapitull do të paraqiten pozicioni dhe forma e pikave fikse të analizës së modelit, raporti i tyre me pozicionin natyral të dhëmbëve dhe do të identifikohen lidhje të tjera protetike.
 
-# Analiza e modelit maksilar
+ Analiza e modelit maksilar
 
 Pika kanine ndërtohet me ndihmën e pikave fikse të analizës së modelit. Fillimisht vizatohet vija e mesit të modelit përmes raphe palatinale mediane më pas shënohet tuberi maksilar dhe çifti i parë i rugave palatinale të mëdha (të cilat shihen qartë). Një vijë diagonale vizatohet nga qendra e tuberit maksilar mbi majën e rugës së parë të madhe të anës së kundërt. Pika kanine ndodhet në këtë vijë rreth 5 mm vestibularisht. Pika e gjetur kanine reflektohet mbi boshtin e simetrisë.
 
@@ -550,11 +550,11 @@ Analiza e modelit maksilar përfshin këto hapa:
 4.  Shënoni qendrat e kreshtave alveolare në zonën e pasme dhe të përparme dhe zgjateni vijën deri te skajet e modelit.
 5.  Shënoni përgjysmoren e papilës dhe zgjateni atë deri te skajet e modelit. Në skajet e modelit kjo krijon një imazh tipik të shenjave të analizës së modelit.
 
-# Aplikimi i gjetjeve nga analiza e modelit
+ Aplikimi i gjetjeve nga analiza e modelit
 
 Vijat e referencës statike (vijat e mesit të modelit, qendrat e kreshtave), si dhe pikat e pozicionit për kaninët dhe incizivët qendrorë maksilarë përcaktohen me anë të analizës së modelit. Kjo përcakton gjithashtu pozicionin e incizivëve lateralë maksilarë. Pozicioni i dhëmbëve të pasmë përcaktohet nëpërmjet qendrës së kreshtës alveolare. Vijat e fisurave qendrore të dhëmbëve të pasmë qëndrojnë mbi mesin e kreshtës. Për të siguruar që goja të mos duket tepër e mbushur dhe që të krijohet korridori bukal, premolarët vendosen brenda tangentes së premolarëve (dmth, vija lidhëse midis kreshtës marginale labiale të kaninit dhe kreshtës të kuspidit mesiobukal të molarit të parë).
 
-# Analiza e modelit mandibular
+ Analiza e modelit mandibular
 
 Pikat fikse të analizës së modelit në mandibul duhet të kenë të njëjtën cilësi si ato në maksilë. Ato duhet të jenë gjithmonë në të njëjtin vend në çdo nofull pavarësisht nga atrofia, të jenë të dukshme qartë dhe të kenë një lidhje të qartë me pozicionin e dhëmbëve. Figura tregon pikat fikse në një analizë modeli.
 
@@ -592,7 +592,7 @@ Analiza e modelit mandibular përfshin këto hapa:
 
 Në skajet e modelit, kjo përsëri krijon pamjen tipike të shenjave të analizës së modelit.
 
-# Zbatimi i gjetjeve të analizës së modelit
+ Zbatimi i gjetjeve të analizës së modelit
 
 Sërish, përcaktohen vijat e referencës statike (vijat e mesit të modelit, qendrat e kreshtave) si dhe pikat e pozicionit për kaninët dhe molarët e parë. Dhëmbët e pasmë vendosen me fisurat e tyre qendrore saktësisht mbi mesin e kreshtës.
 
@@ -602,7 +602,7 @@ Harku dentar parabolik mandibular mund të përshkruhet nga rrethi i Bonwill-it 
 
 Linja e Pound-it prek kufirin lingual të trekëndëshit retromolar dhe shtrihet mbi tuberkulat linguale të dhëmbëve posteriorë deri te aspekti mezial i kaninit. Metoda më e thjeshtë dhe më e besueshme e rreshtimit të dhëmbëve posteriorë është që fisurat e tyre qëndrore të formojnë një vijë të drejtë mbi mesin e kreshtës alveolare.
 
-# Rregullat e përgjithshme të rreshtimit të dhëmbëve në protezat totale
+ Rregullat e përgjithshme të rreshtimit të dhëmbëve në protezat totale
 
 Krahasimi i përshkrimeve dhe ilustrimeve të ndryshme të protezave totale tregon se ekzistojnë disa rregulla themelore që drejtojnë rreshtimin e dhëmbëve artificialë. Këto parime bazë, të nxjerra nga interpretimet e ndryshme, zbatohen këtu. Nuk i jepet përparësi ndonjë metode të veçantë, por këshillat thelbësore merren nga të gjitha përshkrimet e rreshtimit të dhëmbëve. Meqenëse shumica e manualeve të rreshtimit lidhen me forma të veçanta dhëmbësh, asnjë metodë e vetme nuk mund të pretendojë se është universalisht e vlefshme.
 
@@ -642,7 +642,7 @@ Nëse retensionet mekanike nuk janë adekuate protezat do të lëvizin si rezult
 
 Guida kanine (ose nga një grup dhëmbësh), e cila largon dhëmbët e pasmë nga kontakti okluzal gjatë lëvizjeve protruzive ose anësore, është i papërshtatshëm për protezat totale sepse edhe masa funksionale më e mirë dhe stabiliteti pozicional i siguruar nga retensionet mekanike të pragjeve nuk mund të ofrojnë kurrë retensionin që mund të sigurojë një restaurim fiks. Edhe nëse guida kanine nuk lëviz protezën, kjo do të shkaktojë lëvizje transversale të protezave kundrejt mukozë duke e dëmtuar atë me kalimin e kohës dhe duke rritur ngarkesën dinamike në mukozë. Ribazimi i protezës bëhet i domosdoshëm, por shpesh nuk kryhet në kohën e duhur, duke rezultuar në shkatërrim të shpejtë të kockës dhe humbje të zonave stres-përballuese.
 
-# Mënyrat e kontrollit të rreshtimit
+ Mënyrat e kontrollit të rreshtimit
 
 Dhëmbët rreshtohen një nga një, ndërsa kryhen vazhdimisht lëvizje kontrolluese (ekskursione anësore dhe protruzive) për t'u siguruar që ekziston kontakt i gjithanshëm antagonist. Gjithashtu, pini udhëzues incizal duhet të mbajë gjithmonë kontakt me pllakën udhëzuese incizale, veçanërisht kur specifikohet një pjerrësi e caktuar e pllakës.
 
@@ -695,7 +695,7 @@ Tipologjia e trupit sipas Kretschmer reflektohet në formën e incizivëve qendr
 
 Klinicisti zgjedh ngjyrën e dhëmbëve, duke marrë parasysh moshën e pacientit, ngjyrën e buzëve dhe qimet e fytyrës. Forma e dhëmbëve të përparmë duhet të përcaktohet nga klinicisti për të zgjedhur format bazë që përputhen me formën fizike të pacientit.
 
-# Rreshtimi i dhëmbëve mandibularë anteriorë
+ Rreshtimi i dhëmbëve mandibularë anteriorë
 
 Nuk ka një rregull për të përcaktuar nga cilët dhëmbë fillon rreshtimi në protezën totale. Nëse filloni nga shënimet e analizës së modelit në maksilë, të plotësuara me shënimet e cilindrave kafshues, ka kuptim të filloni duke vendosur dhëmbët maksilarë. Në të kundërt është e këshillueshme të filloni me vendosjen e dhëmbëve mandibularë, për të cilët vijat statike nga analiza e modelit të mandibulës ofrojnë udhëzime të besueshme.
 
@@ -723,7 +723,7 @@ Dhëmbët anteriorë mandibularë mund të vendosen në mënyrë të çrregullt 
 
 Pozicioni individual i dhëmbit, i shkaktuar nga rrotullimi dhe mbivendosja, është i lejuar dhe duhet të formohet në mënyrë që të mos ndodhin parakontakte në okluzion dhe kontakti rrëshqitës të ruhet gjithmonë gjatë lëvizjeve anësore. Dhëmbët e përparmë mandibularë mund të vendosen në mënyrë të parregullt për të krijuar një pamje estetike të favorshme. Nëse dhëmbët rrotullohen me akset e tyre vertikale dhe afrohen, gjerësia e përparme nga kanini te kanini mund të zvogëlohet. Gjerësia e përparme mund të rritet duke lënë hapësira midis dhëmbëve të përparmë mandibularë.
 
-# Analiza e gabimit
+ Analiza e gabimit
 
 Është e vështirë të përdoren në mënyrë të saktë vijat e orientimit dhe udhëzimet për rreshtimin e dhëmbëve. Kërkesa për rreshtimin e dhëmbëve në qendrën e kreshtës alveolare është e vështirë për t’u zbatuar. Kur një inciziv i inklinuar konsiderohet të jetë në mesin e kreshtës? A duhet të duket kufiri cervikal dhe konturi i kreshtës, apo margo incizale duhet të qëndrojë mbi mesin e kreshtës, apo baza duhet të mbivendoset mbi konturin e kreshtës? Për arsye statike, margot incizale duhet të vendosen mbi mesin e kreshtës, por atëherë nuk është e mundur të formohet rrethi i Bonwill-it.
 
@@ -731,7 +731,7 @@ Me kompromis, kufijtë cervikalë të të gjithë dhëmbëve të përparmë mand
 
 Kjo gjithashtu lejon një hapësirë të konsiderueshme. Konturi labial mund të drejtohet në thellësinë e forniksit në skajin e jashtëm ose të brendshëm; një variacion tjetër do të lindë nëse konturi nuk është vertikal. Një vizore e mbajtur ndaj konturit mund ta tregojë qartë këtë variacion.
 
-# Rreshtimi i dhëmbëve maksilarë anteriorë
+ Rreshtimi i dhëmbëve maksilarë anteriorë
 
 Konturi labial i incizivit qendror maksilar qëndron përpara kreshtës alveolare rreth 7 mm nga mesi i papilës incizivale. Ai shfaq një inklinim vestibular. Nga aspekti labial mund të vërehet inklinimi mezial. Incizivi qendror maksilar vendoset rreth 1 deri në 2 mm përtej planit të okluzionit ose vijës së bashkimit të buzëve. Nga aspekti okluzal të dy centralët qëndrojnë në harkun dentar.
 
@@ -749,7 +749,7 @@ Kanini maksilar gjithashtu qëndron përpara kreshtës alveolare. Pika kanine ë
 
 Margot incizale të dhëmbëve të përparmë maksilarë mund të shkurtohen duke krijuar sipërfaqe abrazioni.
 
-# Pozicionet individuale të dhëmbëve
+ Pozicionet individuale të dhëmbëve
 
 Rreshtimi lehtësisht i çrregullt i dhëmbëve rrit efektin natyral të protezës. Bazuar në këtë fakt mund të devijohet nga rreshtimi i zakonshëm për të krijuar një rreshtim individual dhe harmonik duke ndryshuar konvergjencën dhe divergjencën e akseve të dhëmbëve.
 
@@ -757,13 +757,13 @@ Rrotullimet e dhëmbëve rreth aksit vertikal, në mënyrë që dhëmbët të mb
 
 Parregullsitë delikate dhe të qëllimshme në pozicionin e dhëmbëve rrisin efektin natyral të protezave. Bazuar në këtë është e mundur të devijohet nga pozicionimi i rregullt dhe të krijohet një individualitet harmonik i dukshëm labialisht nga konvergjenca dhe divergjenca e boshtit të dhëmbëve. Ndryshimet të arritura me rrotullim rreth aksit vertikal të dhëmbit, në mënyrë që disa dhëmbë të mbivendosen, gjithashtu do të rrisin përshtypjen natyrale.
 
-# Analiza e gabimit
+ Analiza e gabimit
 
 Kanini shpesh rreshtohet me qafën e dhëmbit të orientuar vestibularisht për arsye estetike. Megjithatë, rreshtimi i përmbysur i kaninit, ku maja është e inklinuar nga brenda, shkakton parakontakte masive gjatë lëvizjeve anësore. Si rezultat, kanini do të shtyhet vestibularisht gjatë funksionit. Kanini do të deformohet. Prandaj, kanini duhet të vendoset në mënyrë që qafa dhe margo incizale të jenë në vijë të drejtë vertikalisht mbi njëra-tjetrën.
 
 Shkalla e overjet-it ka aspekte estetike dhe vlerë funksionale. Distanca sagitale e të gjithë dhëmbëve duhet të jetë uniforme. Kjo distancë shpesh rritet në incizivin lateral dhe kaninin. Ky gabim lind nëse dhëmbët artificialë kanë inklinim të gabuar vestibular ose janë vendosur përmbys; ky gabim do të ndodhë gjithashtu nëse dhëmbët maksilarë vendosen shumë afër njëri-tjetrit.
 
-# Rreshtimi i dhëmbëve posteriorë mandibularë
+ Rreshtimi i dhëmbëve posteriorë mandibularë
 
 Molari i dytë vendoset me një inklinim mezial brenda kurbës së kompensimit dhe tuberkuli distobukal takon planin e okluzionit.
 
@@ -797,7 +797,7 @@ Molari i parë mandibular, nga aspekti vestibular, qëndron vertikalisht në nj�
 
 Molari i dytë mandibular, nga aspekti bukal, qëndron brenda kurbës kompensuese sagitale dhe është i inklinuar mezialisht, duke formuar një hapësirë interdentare të duhur me molarin e parë. Ai prek planin okluzal me tuberkulin distobukal. Kurba transversale është shumë pak e zhvilluar në molarin e dytë. Në vendosjen dhëmb-me-dhëmb, tani vendosen antagonistët dhe bëhen korrigjimet për të siguruar kontakt rrëshqitës të plotë.
 
-# Rreshtimi i dhëmbëve posteriorë maksilarë
+ Rreshtimi i dhëmbëve posteriorë maksilarë
 
 Në rreshtimin e protezave totale inklinimet e dhëmbëve posteriorë maksilarë artificialë ndryshojnë nga ato të dhëmbëve natyralë sepse kurba e kompensimit sagital është më e thelluar se kurba okluzale natyrale. Molarët e parë dhe të dytë janë të pjerrësuar më shumë distalisht. Dhëmbët posteriorë projektohen përtej planit të okluzionit për shkak të formës së kurbës.
 
@@ -833,13 +833,13 @@ Në vend të vendosjes dhëmb-me-dhëmb, mund të vendosen të gjithë dhëmbët
 
 Çifti i parë antagonist (premolarët mandibularë dhe premolarët e parë maksilarë) mund ta tregojë këtë gabim. Nëse tuberkuli bukal i premolarit të parë maksilar rrëshqet në hapësirën interdentare, duhet të ruhet kontakti me të dy antagonistët. Nëse kurba sagitale është shumë e theksuar, mund të krijohet një hapësirë me premolarin e dytë mandibular, i cili duhet ngritur pikërisht në gjerësinë e kësaj hapësire. Në këtë mënyrë, kurba kompensuese sagitale mund të korrigjohet.
 
-# Retensioni i protezës totale
+ Retensioni i protezës totale
 
 Problemi kryesor kur trajtohen nofulla edentuloze është që proteza totale të ketë retension si në pozicionin e qetësisë ashtu edhe gjatë funksionit. Protezat totale mbështeten mbi kreshtë pa ankorim mekanik, ku marrëdhëniet statike dhe proceset dinamike ndikojnë në aftësinë funksionale. Retensioni i protezës totale ndikohet nga gjendja e kreshtës përfshirë cilësinë e indeve mbështetëse. Duhet të sigurohet një retension i mjaftueshëm kundër forcave të përtypjes.
 
 Stabiliteti i protezës varet nga indet nën të. Në rastin e një kreshte fluktuante (a) ku kreshtat përbëhen vetëm nga ind lidhor, protezat mund të lëvizin në planin transversal dhe sagital kur shtypen shumë. Kreshtat e larta dhe të parezorbuara janë thelbësore për një retension të mirë të protezës. Kjo për shkak se proteza mund të lëvizë edhe kur kreshta alveolare është uniforme por jo e lartë mjaftueshëm sa për të pasur retension mekanik (b). Lëvizshmëria e protezës dhe shtypjet e saj përshpejtojnë rezorbimin kockor.
 
-# Analiza e gabimit
+ Analiza e gabimit
 
 Për të kontrolluar pozicionin e dhëmbëve, kryhen lëvizje anësore dhe protruzive, gjatë të cilave duhet të krijohen kontaktet rrëshqitëse të përshkruara pa u ngritur kunji incizal nga pllaka. Çdo çift antagonist kontrollohet dhe korrigjohet derisa të krijohet kontakt rrëshqitës gjatë të gjitha lëvizjeve ekscentrike; vetëm atëherë vendoset një çift tjetër antagonist. Kontrollohen dhe korrigjohen hapësirat interdentare, interkuspidimi oral dhe vestibular, si dhe pjerrësia e kurbave kompensuese.
 
@@ -874,7 +874,7 @@ Në mandibul, kreshtat e parezorbuara në zonën anteriore shërbejnë si zona r
 
 Retensionet mekanike janë zonat retentive të kreshtës alveolare ku baza e protezës duhet të zgjatet. Në maksilë, këto zona përfshijnë tuberat maksilarë, kreshtën alveolare anteriore, dhe ndonjëherë të gjithë zonën vestibulare. Në mandibul, zonat retentive përfshijnë pjesët anteriore të kreshtës alveolare dhe llozhën retromolare. Këto karakteristika morfologjike të nofullave përshkruhen si mundësi zgjatjeje.
 
-# Efekti Vakum
+ Efekti Vakum
 
 Një efekt vakum krijohet sepse një hapësirë e mbushur me ajër me pak dens e cila zvogëlohet për shkak të presionit atmosferik. Ky efekt mund të ilustrohet me një pompë vakumi: Nëse një pompë gome shtypet mbi një sipërfaqe të sheshtë të lëmuar, skajet e tij krijojnë një vulosje hermetike. Diferenca e presionit lind sepse goma që deformohet kur shtypet, përpiqet të rikthejë formën e mëparshme për shkak të elasticitetit të saj. Kështu krijohet një hapësirë e vogël me ajër me densitet të zvogëluar midis pompës dhe sipërfaqes së lëmuar. Presioni atmosferik shtyn skajet e gomën e pompës mbi sipërfaqen e lëmuar. Nëse pompa tërhiqet pingul me sipërfaqen, hapësira me ajër dhe diferenca e presionit rriten, duke bërë që pompa të ngjitet edhe më fort.
 
@@ -894,7 +894,7 @@ Shtimi i gdhendjeve në sipërfaqen e qiellzës mund të rrisë retensionin e pr
 
 Në nofullën e sipërme, është e domosdoshme të përfshihet nga baza e protezës i gjithë vestibulumi deri në hapësirat vestibulare bukale. Kjo përfshin tuberin maksilar, i cili nuk atrofizohet pas humbjes së dhëmbëve dhe mund të ofrojë retension të shkëlqyer. Në disa raste, baza e protezës mund të zgjatet bukalisht drejt faqes për të pozicionuar dhëmbët posteriorë.
 
-# Mundësitë e zgjatjes së bazës së protezës
+ Mundësitë e zgjatjes së bazës së protezës
 
 Mundësitë e zgjatjes së bazës së protezës bëjnë të mundur zgjatjen e protezës në zona të tjera në mënyrë që forcat e përtypjes të shpërndahen në një sipërfaqe sa më të madhe të mundshme dhe të krijohet retension shtesë për bazën e protezës.
 
@@ -932,7 +932,7 @@ Lehtësimi i papilës, raphe palatine dhe torusit mund të rrisë efektin vakum 
 
 Forca retentive e protezës—falë efektit vakum, forcave të adezionit dhe kohezionit—është midis 70 dhe 100 N nëse puthitja është e saktë dhe kufijtë e valvulës funksionojnë siç duhet; gjatë tërheqjes vertikale, kjo forcë mund të jetë më e madhe.
 
-# Mënyra e rreshtimit sipas Gizit
+ Mënyra e rreshtimit sipas Gizit
 
 Rradha e lëvizjes në ciklin e përtypjes është përshkruar nga Gizi si një cikël i përbërë prej 4 fazash. Kjo sekuencë ndjek një parim të caktuar por ndryshon në varësi të konsistencës së ushqimit. Fazat pasojnë njëra-tjetrën rrjedhshëm. Faza e fundit është me interes: rrëshqitja në okluzionin terminal nën veprimin e forcës mastikatore, fazë gjatë së cilës në protezat totale ndikon okluzioni i balancuar bilateral sipas Gizit.
 
@@ -965,7 +965,7 @@ Nëse cikli i përtypjes përfshin lëvizjet përsëritëse dhe fikse të mandib
 
 Në terma të thjeshtë, Gizi provoi se riprodhimi i saktë i pjesëve specifike të sistemit të përtypjes siguron suksesin e një proteze totale.
 
-# Artikulatorët sipas Gizit
+ Artikulatorët sipas Gizit
 
 Artikulatori Simplex është një artikulator me vlera mesatare, në të cilin lëvizja Bennett riprodhohet nga artikulacionet e pozicionuara dorsal. Pjesa lidhëse e vendosur në krahun e sipërm përpara sipërfaqeve artikulare shërben si shenjë e aksit të menteshës (A).
 
@@ -1005,7 +1005,7 @@ Pllaka gjurmuese dhe maja gjurmuese dalin jashtë gojës dhe mundësojnë kontro
 
 Si indikatorë për rreshtimin e dhëmbëve, cilindrat kafshues duhet të mbusheshin për të reflektuar vëllimin natyral të buzëve, në mënyrë që të regjistrohet mesi i fytyrës mbi cilindrat kafshues, si dhe linja e mbylljes së buzëve, pikat kanine dhe linja e buzëqeshjes së buzës së sipërme, duke përcaktuar kështu gjatësinë dhe gjerësinë e dhëmbëve.
 
-# Gjurmimi i rrugës kondilare
+ Gjurmimi i rrugës kondilare
 
 Harku facial mund të lidhej me pllakën gjurmuese në shabllonin e poshtëm në mënyrë që të montoheshin modelet në artikularor sipas orientimit të artikulacionit temporomandibular. Krahët fleksibël të harkut facial lejonin vendosjen në pikat kondilare të pacientit dhe përfaqësonin raportin e kondileve me planin okluzal. Harku facial mund të përshtatej në artikulator në mënyrë të tillë që krahët fleksibël të regjistruar nga pacienti të korrespondonin në artikulator.
 
@@ -1015,7 +1015,7 @@ Përshkrimi i teorisë së artikulimit nga Gizi ka jo vetëm aspektin historik p
 
 Kritikat ndaj teorisë së artikulimit të Gizi-t lindën sepse disa fakte anatomike lejojnë interpretime të tjera. Për shembull, Gizi i konsideronte kontaktet balancuese si formën ideale, përfshirë në denticionet natyrale, dhe interpretoi mungesën e kontakteve si një deformim degjenerativ të denticionit. Kritikët nxorën përfundimin se kjo teori ishte e pasaktë. Dhëmbët me tuberkula të larta u kritikuan sepse u mungonin sipërfaqet bluarëse të konsumit fiziologjik dhe funksional. Pozicioni i dhëmbëve të përparmë të maksilës dhe mungesa e overjetit gjithashtu u kritikuan, sepse supozohej se kjo shkaktonte estetikë dhe stabilitet të pamjaftueshëm të protezës maksilare.
 
-# Udhëzimet për vendosjen e dhëmbëve
+ Udhëzimet për vendosjen e dhëmbëve
 
 Përcaktohet gjithashtu inklinimi aproksimal i dhëmbëve të anteriorë maksilarë ku Gizi i referohet konturit labial në përcaktimin e inklinimit të tyre dhe jo aksit të dhëmbit. Si rezultat, kaninët qëndrojnë me akset e tyre duke shfaqur një inklinim të qartë vestibularë.
 
@@ -1046,7 +1046,7 @@ Gizi dha udhëzime të sakta për prodhimin e protezave totale, ndër të cilat 
 9.  Molari i parë mandibular vendoset fillimisht në pozicionin e tij të saktë.
 10. Më pas vendosen dhëmbët e mbetur.
 
-# Rreshtimi sipas Hiltebrandt
+ Rreshtimi sipas Hiltebrandt
 
 Sipas Hiltebrandt, molari i parë maksilar qëndron pingul me planin e okluzionit. Boshti ideal i molarit mandibular shtrihet paralel me boshtin e rrënjës palatinale të antagonistit të tij. (a) Vija lidhëse fiziologjike rrjedh nga boshtet ideale të dy molarëve të parë dhe përkulet në një kënd me planin e okluzionit. (b) Ligji i qëndrueshmërisë kërkon që dhëmbët posteriorë të vendosen mbi kreshtën alveolare në mënyrë që boshtet gjatësore ideale të ndërpriten me vijën e kreshtës. Nëse vendosja bëhet jashtë vijës së kreshtës, do të ndodhë lëvizje. (c) Cilindrat kafshues kanë një pozicion të favorshëm statik brenda vijës lidhëse fiziologjike. (d) Fusha okluzale (OF) është një zonë e kufizuar e sipërfaqes okluzale me një lidhje fikse me vendosjen e rrënjëve. (e) Dhëmbët posteriorë të formuar në mënyrë fiziologjike kanë një fushë okluzale të zgjeruar, në të cilën angazhohet kreshta e vendosur në mënyrë sagitale me antagonistin. Parimi i havanit dhe shtypësit bëhet i qartë këtu.
 
@@ -1081,7 +1081,7 @@ Përfundimet e Hiltebrandt-it përfshijnë:
 *   Dhëmbët posterior janë të qëndrueshëm në vetvete për shkak të inklinimit të tyre tipik me planin e okluzionit.
 *   Rreshtimi brenda linjës fiziologjike të lidhjes e bën të panevojshme rreshtimin e kryqëzuar.
 
-# Rreshtimi sipas Haller
+ Rreshtimi sipas Haller
 
 Sipas Haller-it një protezë mund të stabilizohet në nofullën pa dhëmbë (dhe në një denticion parcialisht pa dhëmbë) duke vendosur në mënyrë të veçantë molarët. (a) Katër molarët vendosen në një pozicion të ndërfutur me njëri-tjetrin. Në këtë vendosje molarët e dytë janë më të anuar ndaj planit të okluzionit sesa molarët e parë. Këndi α është më i vogël se këndi β. (b) Vektorët e forcës te molarët, premolarët dhe incizivët drejtohen në mënyrë centripetale, pra drejt qendrës së protezës ose zonës mbajtëse të protezës. Diagrami i forcave duhet të rezultojë në një forcë përfundimtare që qëndron pingul mbi nofullën. (c) Gjatë kafshimit të ushqimit, ndërfutja e molarëve parandalon që proteza të dalë plotësisht nga vendi i saj. Pacienti mund ta stabilizojë menjëherë protezën. (d) Molarët e formuar posaçërisht sipas Haller-it janë më të gjerë dhe më të gjatë se dhëmbët natyralë dhe kanë një sipërfaqe okluzale tërësisht të sheshtë. Kjo krijon një fushë shumë të madhe veprimi. (e) Rrugët e forcave në denticionin mandibular tregojnë se ndërfutja e molarëve shtyn protezën kundër harkut dentar dhe kreshtës alveolare në pjesën e pasme.
 
@@ -1101,7 +1101,7 @@ Në protezën e poshtme, këto forca bashkohen drejtpërdrejt në një pikë nd�
 
 Për një retension më të mirë të protezës totale, Haller rekomandon forcimin e buzës labiale të protezës drejtpërdrejt në forniksin vestibular me disa të ngritura. Mukoza e zonës së buzës përshtatet mbi këto të ngritura dhe mbron protezën. Për më tepër, mund të krijohet një mbështetje periferike për protezën mandibulare. Ky ankorim si top, rreth 5 mm i lartë, është vendosur vestibularisht në nivel të molarëve të dytë dhe ka për qëllim të bllokojë muskujt e faqeve.
 
-# Rreshtimi sipas Fehr
+ Rreshtimi sipas Fehr
 
 Sipas Fehr-it nëse shabllonet kanë një formë të ngjashme me kalotën në planin okluzal në momentin e interkuspidimit maksimal dhe përdoret një instrument i përshtatshëm për të riprodhuar lëvizjet laterale dhe protruzive të mandibulës individualisht, derisa shabllonat të mund të lëvizin kundër njëra-tjetrës pa interferenca dhe pa lëvizje të padëshiruara, atëherë dhëmbët mandibularë mund të vendosen në shabllonin me formë kalote. Kështu ata pozicionohen brenda një kurbe individuale okluzale. Gjatë provës në gojë mund të kryhen lëvizje laterale dhe protruzive pa interferenca duke ruajtur qëndrueshmërinë e protezës totale.
 
@@ -1111,7 +1111,7 @@ Metoda e Fehr-it përdor një shabllon (kalotë) për përcaktimin e okluzionit.
 
 Autorë të tjerë gjithashtu kanë dhënë metoda për rreshtimin e dhëmbëve duke përdorur kalota (p.sh., Eichner, Monson, Hall, dhe Faber), dhe ekzistojnë artikulatorë me kalota vlerë mesatare ose shabllone të formuara si kalota për vendosjen e dhëmbëve. Të gjitha këto metoda janë të bazuara në idenë që stabiliteti i protezës arrihet nga mbështetja trepikëshe dhe jo nga përdorimi i kyçit si në metodën e Haller-it.
 
-# Rreshtimi sipas Schreinemakers
+ Rreshtimi sipas Schreinemakers
 
 Për lugët e Schreinemakers-it udhëzimet e punës lidhen me marrjen e masave të kreshtave alveolare. Masa e parë merret me Clan-Trays të parapërgatitura, të cilat përshtaten ngushtë me strukturat anatomike të kreshtave edentuloze.
 
@@ -1145,7 +1145,7 @@ Në praktikë, Schreinemakers ofron një set lugësh gjysmë-individuale për ma
 
 Rreshtimi i dhëmbëve anteriorë bazohet nga estetika. Për rreshtimin e dhëmbëve posteriorë përdoret linja e Poundit. Nëse dhëmbët posteriorë mandibularë rreshtohen me sipërfaqet linguale në këtë vijë ato do të qëndrojnë pothuajse ekzaktësisht mbi mesin e kreshtës.
 
-# Rreshtimi sipas Uhlig
+ Rreshtimi sipas Uhlig
 
 Dhëmbët anteriorë, veçanërisht kaninët, pozicionohen përpara kreshtës alveolare për të mbështetur buzët. Mbushja e vestibulumit labial për të mbështetur buzën e sipërme nuk duhet të pranohet. Pozicioni i kaninëve përpara kreshtës përcakton pozicionin dhe formimin e këndit të gojës, pasi modiolusi (vendi i insertimit për muskujt e ilustruar) mbështetet. Për këtë qëllim kanini mandibular gjithashtu duhet të vendoset me saktësi për të mbështetur këtë zonë të indeve. Nëse kaninët vendosen shumë lingualisht këndi i gojës do të ulet (ashtu siç ndodh nëse dimensioni vertikal i okluzionit është shumë i ulët), do të rrjedhë pështymë dhe këndi i gojës mund të inflamohet.
 
@@ -1159,7 +1159,7 @@ Për mbylljen precize të kufirit të protezës, përgatitet një lugë individu
 
 Në pjesën labiale të maksilës, proteza mund të jetë më e trashë për të mbështetur buzën e sipërme dhe për të kompensuar tkurrjen e nofullës. Dhëmbët e përparmë maksilarë pozicionohen përpara kreshtës alveolare për të mbështetur buzën e sipërme dhe të poshtme. Në pjesën posteriore përdoret një rreshtim i kryqëzuar për të stabilizuar protezën maksilare si dhe një kurbë okluzale sagitale që nuk ndërtohet në raport me ATM-në, por nga pozicionimi i dhëmbëve brenda linjës interalveolare.
 
-# Rreshtimi sipas Jüde
+ Rreshtimi sipas Jüde
 
 Pozicioni dhe forma e tuberkulit mandibular përshkruhet si një kreshtë me mukozë fikse nën por jo mbi trekëndëshin retromolar. Prandaj, tuberkuli dhe trekëndëshi nuk ndodhen në të njëjtin pozicion por tuberkuli mandibular në nofullën edentuloze ndodhet në pozicionin e molarit të tretë dhe duhet të përfshihet nga baza e protezës.
 
@@ -1175,7 +1175,7 @@ Zonat retromolare (paralinguale) duhet të përcaktohen individualisht me një m
 
 Në praktikë, gjatësia e kufirit përcaktohet në lugën individuale para se të merret masa funksionale. Gjatë këtij procesi, kufiri lingual i lugës ndjek kufirin e dyshemesë së gojës; shkurtohet luga përgjatë linjës mylohyoide ndjekur nga zgjatja në zonën paralinguale dhe zgjatimi sublingual për mbështetësin sublingual. Në vestibulumin oral, kufiri i lugës drejtohet përgjatë forniksit vestibular, shkurtohet sipas linjës oblike dhe lërohen vendet ku ndodhen ligamentet.
 
-# Rreshtimi sipas Gerber
+ Rreshtimi sipas Gerber
 
 Sipas Gerberit, cikli i përtypjes ndjek një rrugë fikse: (a) Mandibula lëviz nga okluzioni qendror në anën e punës. Kondili në anën balancuese lëviz përpara dhe poshtë. Kondili në anën e punës lëviz prapa dhe jashtë në lëvizjen Bennett dhe është ende i pangarkuar. (b) Në zonën e ngarkesës ndodh veprimi aktiv i përtypjes me shtypje dhe protruzion në anën e punës. Kjo përfshin lëvizjen e kondilit përpara dhe brenda në fosa. Në këtë fazë aktive të përtypjes, ka mungesë të kontaktit midis dhëmbëve në anën balancuese dhe (c) kontakt në anën punuese.
 
@@ -1200,7 +1200,7 @@ Lëvizja e buzëve, faqeve dhe gjuhës gjatë të përtypurit parandalojnë rrë
 *   Pozicionimi i dhëmbëve duhet të sigurojë stabilitetin pozicional të protezave totale.
 *   Trupi i protezës duhet të modelohet në mënyrë që muskujt të mbështesin retensionin e protezës pa penguar lëvizshmërinë e tyre.
 
-# Kondilatori Gerber
+ Kondilatori Gerber
 
 Artikulatori Kondilator, Figura 8-142.
 
@@ -1208,7 +1208,7 @@ Kondilatori është një artikulator gjysmë-i rregullueshëm ku rrugët kondila
 
 Pllaka incizale ka një pjerrësi prej 18 gradësh për protezat totale, por dhëmbët mund të rreshtohen sipas një pllake individuale me rezinë të vetë-polimerizuese. Për përcaktimin e okluzionit rekomandohet të përdoret një kit i posaçëm.
 
-# Dhëmbët Kondiloform
+ Dhëmbët Kondiloform
 
 Në dhëmbët posteriorë Condyloform, kuspidet okluduese të maksilës ndërfuten si një shtypës në sipërfaqen okluzale të mandibulës, e cila funksionon si një havan. (1) Kuspidelet okluduese ngjajnë me mikro-kondilet që artikulojnë në mikro-fosat. (2) Mikro-kondilet dhe mikro-fosat ndodhen në pjesën linguale të dhëmbëve: sipërfaqet voluminoze bukale të dhëmbëve kanë kontakt me faqet dhe stabilizojnë protezën; pozicionimi i pjesëve aktive në qendër të kreshtës alveolare lë hapësirë të mjaftueshme për gjuhën; dhe elementet funksionale janë të vendosura dukshëm në mënyrë linguale, kështu që dhëmbët mund të pozicionohen më vestibularisht. (3) Kuspidet bukale të abraduara ndihmojnë në statikën dhe stabilitetin gjatë përtypjes. (4) Në kafshimin e kryqëzuar, molarët nuk ndërrohen, por kuspidet bukale të molarëve maksilarë bëhen kuspidet aktive; kuspidi palatal nuk duhet të pengojë lëvizjen e përtypjes. (5) Kuspidet bukale mund të shkurtohen ose të vendosen jashtë kontaktit. (6) Për të rritur hapësirën për gjuhën, premolarët mund të përdoren në vend të molarëve në mandibul.
 
@@ -1240,7 +1240,7 @@ Dhëmbët Kondiloform mund të vendosen në qendër të kreshtës alveolare. Meq
 
 Kafshimi i kryqëzuar, i nevojshëm për shkak të atrofi së avancuar të nofullave, nuk bëhet duke ndërruar molarët. Në vend të kësaj, tuberkulat bukale të molarëve maksilarë kthehen në tuberkula funksionale, ndërsa tuberkulat palatinale nuk duhet të pengojnë gjatë lëvizjeve. Për këtë arsye dhëmbët anohen shumë bukalisht, duke rikthyer kontaktin me faqet. Tuberkulat bukale mund të gërryhen ose të vendosen jashtë kontaktit nëse ato pengojnë gjatë lëvizjeve ose cënojnë stabilitetin e protezës.
 
-# Stabiliteti gjatë përtypjes
+ Stabiliteti gjatë përtypjes
 
 Sipas Gerberit stabiliteti gjatë përtypjes lidhet me dy fakte kryesore: (a) Molari i parë mandibular duhet të vendoset në pikën më të ulët të kreshtës mandibulare të atrofizuar. Ky molar qëndron midis dy planeve të pjerrëta, efektet e kundërta të të cilave neutralizojnë njëra-tjetrën. Ky pozicionim mund të krahasohet me një shalë që qëndron e sigurt në shpinën e një kali. (b) Dhëmbët posteriorë vendosen brenda një kurbe okluzale të pjerrët. Kjo kurbë shërben për të kompensuar defektet e pozicionimit që vijnë nga fenomeni i Christensen-it dhe lëvizja e Bennett-it, por gjithashtu forcon efektin kundërshtues të planit të pjerrët.
 
@@ -1260,7 +1260,7 @@ Për të krijuar kontakte balancuese në anën jo-punuese dhëmbët e pasmë duh
 
 Së fundmi, stabiliteti pozicional i një proteze totale duhet të mbështetet nga konturimi i trupit të protezës. Schreinemakers, Uhlig dhe Jüde rekomandojnë një analizë të hollësishme të zonës mbajtëse të protezës, ndërsa Gerber sugjeron formimin e mbështësave të buzëve në protezat maksilare dhe mandibulare për mbështetjen e mukozës si dhe modelimin e kanaleve të ngushta në drejtim të funksionit të ligamentëve për frenulumeve bukale.
 
-# Rreshtimi i dhëmbëve sipas Gerber
+ Rreshtimi i dhëmbëve sipas Gerber
 
 Sipas Gerberit proteza e përfunduar shfaq këto cilësi: Molari i parë mandibular ka konkavitetin okluzal në pikën më të ulët të kreshtës alveolare; dhëmbët posteriorë qëndrojnë brenda kurbave okluzale; dhëmbët posteriorë mbarojnë me molarin e parë ndërsa premolari/molari i dytë mandibular është thjesht një antagonist sekondar; kanini/premolari maksilar kontakton në qëndër të kaninit mandibular. Sipërfaqja e jashtme e trupit të protezës është e tillë që të mbështesë muskujt dhe veçanërisht muskulin orbikular. Në zonën posteriore gjenden të liruar vendet e plikave bukale.
 
@@ -1295,7 +1295,7 @@ Më pas bëhet gërryerja selektive me një pastë të bërë nga pluhur karboru
 
 Tuberkulat palatinale të dhëmbëve të pasmë maksilarë nuk duhet të gërryhen sepse funksionet e tyre fikse të okluzionit duhet të ruhen. Gërryerja selektive në një artikulator me vlera mesatare krijon një fushë okluzale që mund të stabilizojë protezën, por imponon një lëvizje specifike në ATM. Këto lëvizje zakonisht adoptohen pas një periudhe të shkurtër mbajtjeje të protezës duke e bërë të dobishme për qëllime terapeutike.
 
-# Protezat Biologjike
+ Protezat Biologjike
 
 Sistemi përtypës funksionon sipas një cikli të kontrolluar feedback. Interkuspidimi fiziologjik qendror dhe habitual duhet të jenë pa interferenca. Cikli përtypës mësohet në fëmijëri në bazë të mekanizmave feedback. Fusha e protezave biologjike postulon guidën mandibulare neuromuskulare në të cilën nuk gjendet guida kanine, guida e disa grup dhëmbësh apo okluzioni i balancuar bilateral. Në sistemin përtypës nuk shikohet guidë dhëmbore por thjesht guidë neuromuskulare.
 
@@ -1328,7 +1328,7 @@ Në artikulatorët e zakonshëm, okluzioni qendror është i vetmi kontakt që m
 
 Prandaj, mund të arrihet në përfundimin se guidimi anterior ose guidimi laterial sekuencial nga grupe dhëmbësh nuk mund të ofrojë një koncept artikulimi që ruan sistemin. Asnjë denticion standard nuk garanton integritet dhe funksion fiziologjik. Një denticion fiziologjik individual funksionon pa interfernca, përmes guidimit neuromuskular të dhëmbëve dhe okluzionit qendror fiziologjik.
 
-# Rreshtimi në protetikën biologjike
+ Rreshtimi në protetikën biologjike
 
 Forma e dhëmbëve anteriorë estetikë të Vitës bazohet në konceptet e protezave biologjike prandaj mund të përdoren si në protezat totale dhe parciale.
 
@@ -1380,7 +1380,7 @@ Dhëmbët Physiodens nga Vita janë projektuar për konceptin e protetikës biol
 
 Sipërfaqet okluzale të modeluara si dhëmbët natyral dhe vendosja jo e balancuar parandalojnë parafunksionet, duke lejuar lëvizje të lira neuromuskulare.
 
-# Teknika e Ludwig
+ Teknika e Ludwig
 
 Një përforcues vendoset në silikonin (Lutesil, Bisico) për masën funksionale paraprake. Masa merret me lugë serie pa vrima.
 
@@ -1461,7 +1461,7 @@ Fakti që arrihet një rezistencë e shkëlqyer ndaj thyerjes falë përforcimit
 
 Vendosja e dhëmbëve sipas teknikës Ludwig paraqitet në figurat 8-178 deri 8-184.
 
-# Sistemi APF NT
+ Sistemi APF NT
 
 Për vendosjen e modeleve përdoret një montues modeli i cili rregullohet në lartësi dhe ka një krah të lëvizshëm për fiksimin anterior dhe një anësor për tuberin maksilar. Kjo paisje e vendos modelin e sipërm në vlera mesatare.
 
@@ -1496,7 +1496,7 @@ Dhëmbët e pasmë vendosen në një marrëdhënie dhëmbë-me-dhëmbë që dome
 
 Koncepti i okluzionit lingualizuar, ku dhëmbët janë të zhvendosur bukalisht, përdoret për të krijuar më shumë hapësirë për gjuhën por pa destabilizuar dhëmbët. Në okluzionin e lingualizuar tuberkulat linguale të dhëmbëve maksilarë okludojnë me fosat qendrore të dhëmbëve mandibularë. Tuberkulat bukale janë dukshëm jashtë kontaktit me antagonistin. Megjithatë ato duhet të vendosen brenda kufirit kockor. Në okluzion qendror nuk duhet të ketë kontakt ndërmjet dhëmbëve anterior.
 
-# Planifikimi, prodhimi dhe vlerësimi i protezës totale
+ Planifikimi, prodhimi dhe vlerësimi i protezës totale
 
 Hapat e punës të përgatitjes së një proteze totale janë si më poshtë:
 
