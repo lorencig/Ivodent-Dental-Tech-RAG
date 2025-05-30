@@ -12,3 +12,4 @@
 * [TEORIA E PROTEZAVE I](teoria-e-protezave-i.md)
 * [Pyetje Përgjigje Kap 8](pyetje-pergjigje-kap-8.md)
 * [Hohmann & Hielscher](hohmann-and-hielscher.md)
+* [Atashmentet](atashmentet.md)
