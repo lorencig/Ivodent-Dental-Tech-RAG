@@ -1,7 +1,5 @@
 # Atashmentet
 
-## Kapitulli VI: ATASHMENTET
-
 ### PROTEZAT E SKELETUARA ME ATASHMENTE
 
 Atashmentet si elementë lidhës ndërmjet protezës dhe dhëmbëve natyrorë mund të përcaktohen si preçiz, estetik, retentiv dhe stabilizues. Këto elementë përbëhen nga dy pjesë: njëra fiksohet në dhëmbë, kurse tjetra lidhet me protezën.
